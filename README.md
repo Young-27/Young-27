@@ -1,12 +1,9 @@
-<div align="center">
-  ### Hi there 👋 <br>
-  I'm Sunyoung Lee, who wants to become a <b>Back-End Developer</b>. 🌱 <br>
-  I will keep growing !! ✨ <br>
+
+  Hi there 👋 I'm Sunyoung Lee, who wants to become a <b>Back-End Developer</b>. 🌱
   
   <br><br>
 
-
-  <h4> 🔨 Tech Stack 🔧</h4>
+  <h2> Tech Stack 🔧</h2>
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
@@ -16,11 +13,11 @@
   </p>
   
   <br><br>
-  <h4> education 🎓 </h4>
+  <h2> Experience 🎓 </h2>
   <p>
-    21.01.15 ~ 21.08.26 KH Academy Developer training curriculum
+    <li>✏ KH Academy Developer Training Curriculum (21.01 ~ 21.08) </li>
   </p>
-</div>
+
 
 <!--
 ** Tech Stach guide
