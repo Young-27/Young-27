@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&fontColor=FFFFFF&height=200&section=header&text=Sunyoung%20Lee&fontSize=40&fontAlign=25&fontAlignY=30&animation=fadeIn&rotate=-13)
   <h3 align="center">Hi there👋 <br> I'm Sunyoung Lee, a growing developer ✨</h3>
   <br>
-  <h2 align="center"> Stack 🛠</h2>
+  <h2 align="center"> Tech Stack 📚</h2>
   <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
