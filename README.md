@@ -28,7 +28,7 @@
 ** Tech Stach guide
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
 
-**Young-27/Young-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Young-27/Young-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
