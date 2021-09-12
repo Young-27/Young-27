@@ -26,16 +26,24 @@
   
   <br><br>
   
+  <!--
+  <h2></h2>
+  <a href="https://youngcoding.tistory.com/">
+    <img align="center" src=""/>
+  </a>
+  
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__s2.0_/)](https://www.instagram.com/danghyeona/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.sylee95@gmail.com)](mailto:dev.sylee95@gmail.com)
+  
+  <br><br>
+  -->
+  
   
   <h2 align="center"> 🌱 </h2>
  
 <div align="center">
-  <a href="https://github.com/Young-27/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api?username=Young-27&theme=github_dark&show_icons=true&include_all_commits=true" alt="Young-27's github stats" />
-  </a>
-  <a href="https://github.com/Young-27/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young-27&theme=github_dark&layout=compact" alt="Young-27's github stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Young-27&theme=github_dark&show_icons=true&include_all_commits=true"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young-27&theme=github_dark&layout=compact"/>-->
 </div>
 
 
@@ -60,10 +68,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h2 align="center"> Contact </h2>
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-  
-  
-  <br><br>
 -->
 
