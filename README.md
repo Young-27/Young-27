@@ -1,9 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&fontColor=FFFFFF&height=200&section=header&text=Sunyoung%20Lee&fontSize=40&fontAlign=25&fontAlignY=30&animation=fadeIn&rotate=-13)
 <div align="center">
+  
   ### Hi there👋 <br> I'm Sunyoung Lee, a growing developer ✨
   
   <br>
+  
   ## Tech Stack 📚
  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
@@ -20,7 +22,9 @@
  
  
   <br><br>
+  
   ## Experience 🎓
+  
   - ✏ KH Academy Developer Training Curriculum (21.01 ~ 21.08)
 
   <br><br>
