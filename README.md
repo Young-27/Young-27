@@ -1,41 +1,71 @@
+![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=0:1B1E3D,100:3D4FD1&fontColor=FFFFFF&height=200&section=header&text=Sunyoung%20Lee&fontSize=40&fontAlign=25&fontAlignY=30&desc=Full-Stack%20Developer&descSize=18&descAlign=24&descAlignY=50&animation=fadeIn&rotate=-13)
 
-![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&fontColor=FFFFFF&height=200&section=header&text=Sunyoung%20Lee&fontSize=40&fontAlign=25&fontAlignY=30&animation=fadeIn&rotate=-13)
-<div align="center">
-  
-  ### Hi there👋 <br> I'm Sunyoung Lee, a growing developer ✨
-  
-  <br>
-  
-  ## Tech Stack 📚
- 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/postgresql-1572B6?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Subversion-181717?style=flat-square&logo=Subversion&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>&nbsp;
- 
- 
-  <br><br>
-  
-  ## Experience 🎓
-  
-  - ✏ KH Academy Developer Training Curriculum (21.01 ~ 21.08)
+### 안녕하세요, 5년차 풀스택 개발자 이선영입니다 👋
 
-  <br><br>
+화면부터 서버, 데이터베이스까지 서비스를 끝까지 만듭니다.
+Java·Spring 백엔드와 Vue·React 프론트엔드로 공공 웹서비스를 개발해 왔고,
+최근에는 Python으로 **LLM Agent와 MCP 서버**를 만들며 기존 서비스에 AI를 연결하고 있습니다.
 
-  ## 🌱
+<a href="https://young-27.github.io/"><img src="https://img.shields.io/badge/Portfolio-young--27.github.io-3D4FD1?style=flat-square&logo=githubpages&logoColor=white"/></a>
+<a href="mailto:dev.sylee95@gmail.com"><img src="https://img.shields.io/badge/Email-dev.sylee95@gmail.com-1B1E3D?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Young-27&theme=github_dark&show_icons=true&include_all_commits=true"/>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young-27&theme=github_dark&layout=compact"/>-->
+<br>
 
-</div>
+## 🛠 Tech Stack
 
+**Backend**<br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyBatis-B22222?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
+**Frontend**<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
+**Database**<br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+**Tools**<br>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+<br>
+
+## 💼 Experience
+
+**㈜웨이버스** · 대리 · 웹개발 (2021.11 – 현재)
+
+| 프로젝트 | 담당 |
+|---|---|
+| AI 기반 통합인허가 사전진단 서비스 (진행중) | LLM Agent · MCP 서버 (Python), 연계 API (Spring Boot) |
+| 공장설립 인허가 사전진단 서비스 2차 | 파일 업로드 · 레이어 발행, 대용량 데이터 처리 병목 개선 |
+| 공장인허가 사전진단 서비스 | 외부 서비스 세션 연동, 분석 기능, 보고서 출력 |
+| 디지털트윈 국토서비스 기반 구축 1·2차 | 작업 · 스케줄 관리, 코드 · 속성 관리, 데이터 추출 |
+| K-Geo 플랫폼 (공간정보 융복합 활용체계 3차) | 콘텐츠 공유 · 템플릿 기능 |
+
+더 자세한 내용은 [포트폴리오 사이트](https://young-27.github.io/)에서 볼 수 있습니다.
+
+<br>
+
+## 📜 Certificates
+
+- 정보처리기사 (2025.06)
+- SQL개발자 SQLD (2024.09)
+- 컴퓨터활용능력 1급 (2017.12)
+
+<br>
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Young-27&theme=github_dark&show_icons=true&include_all_commits=true"/>
