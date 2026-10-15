@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=0:1B1E3D,100:3D4FD1&fontColor=FFFFFF&height=200&section=header&text=Sunyoung%20Lee&fontSize=40&fontAlign=25&fontAlignY=30&desc=Full-Stack%20Developer&descSize=18&descAlign=24&descAlignY=50&animation=fadeIn&rotate=-13)
+![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=0:1B1E3D,100:3D4FD1&fontColor=FFFFFF&height=200&section=header&text=Sunyoung%20Lee&fontSize=40&fontAlign=25&fontAlignY=28&desc=Full-Stack%20Developer&descSize=18&descAlign=22&descAlignY=44&animation=fadeIn&rotate=-13)
 
 ### 안녕하세요, 5년차 풀스택 개발자 이선영입니다 👋
 
