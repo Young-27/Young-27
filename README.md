@@ -2,8 +2,6 @@
 
 ### 안녕하세요, 5년차 풀스택 개발자 이선영입니다 👋
 
-Java·Spring 백엔드와 Vue·React 프론트엔드로 공공 웹서비스를 개발해 왔고,
-최근에는 Python으로 **LLM Agent와 MCP 서버**를 만들며 기존 서비스에 AI를 연결하고 있습니다.
 
 <a href="mailto:dev.sylee95@gmail.com"><img src="https://img.shields.io/badge/Email-dev.sylee95@gmail.com-1B1E3D?style=flat-square&logo=gmail&logoColor=white"/></a>
 
